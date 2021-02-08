@@ -9,6 +9,7 @@
   border: 15px solid greenyellow;
   padding: 35px;
 }
+
 .firsttable {
   width:25%;
   color:greenyellow;
@@ -17,6 +18,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 #matrix {
   height: 40%;
   width: 40%;
