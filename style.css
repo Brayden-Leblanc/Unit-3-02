@@ -1,0 +1,27 @@
+.paragraph {
+  color:greenyellow;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+  font-size:200%;
+  background-color: black;
+  border: 15px solid greenyellow;
+  padding: 35px;
+}
+.firsttable {
+  width:25%;
+  color:greenyellow;
+  background-color: black;
+  border: 15px solid greenyellow;
+  margin-left: auto;
+  margin-right: auto;
+}
+#matrix {
+  height: 40%;
+  width: 40%;
+  border: 15px solid greenyellow;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
